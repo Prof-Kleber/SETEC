@@ -6,8 +6,13 @@ body{
     color: gray;
 }
 
-header {
-    
-    margin: 0%;
-    padding: 0%;
+.video video {
+    height: auto;
+    width: 1200px;
 }
+
+.logo img {
+    height: auto;
+    width: 1200px;
+}
+
